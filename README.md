@@ -1,4 +1,4 @@
-# plan-my-trip
+# Plan My Trip
 
 <img width="546" alt="app" src="https://user-images.githubusercontent.com/24357455/145331364-fade043c-fcf6-4db0-8f15-e28b7818825f.png">
 
