@@ -1,0 +1,25 @@
+{
+	"type": "module",
+	"name": "plan-my-trip",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"start": "nodemon server.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ngvhoang96/plan-my-trip.git"
+	},
+	"author": "andrewh",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ngvhoang96/plan-my-trip/issues"
+	},
+	"homepage": "https://github.com/ngvhoang96/plan-my-trip#readme",
+	"dependencies": {
+		"express": "^4.17.1",
+		"mongoose": "^6.1.0"
+	}
+}
